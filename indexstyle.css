@@ -1,11 +1,14 @@
 h1{
-  background-color: lightgray;
-  font-family: impact, arial;
+  background-color: gray;
+  font-family: arial;
   font-size: 1.2em;
   font-weight: bold;
   font-style:italic;
+  border: 3px solid black;
+  border-radius: 3px;
 }
 body{
   background-color: lightgray;
+  border-bottom:5px dotted gray;
 }
 ;
